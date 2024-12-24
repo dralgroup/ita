@@ -16,3 +16,8 @@ If you want to run Jupyter notebook, you will need MLatom 3.16.2 or higher (the 
 
 To perform UAIQM calculations the user would need to either use MLatom@XACS or request A-MLatom as [described elsewhere](http://mlatom.com/amlatom/).
 
+## Contributors
+
+- Calculations were performed by Xin-Yu Tong.
+- Analysis of calculations by Xin-Yu Tong and Pavlo O. Dral.
+
