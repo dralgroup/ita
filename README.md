@@ -7,7 +7,7 @@ Jian-Cheng Song, Xin-Yu Tong, Bai-Yang Qian, Jianbin Lin, Pavlo O. Dral, Hui-Jun
 ## Content description
 
 * ``ita.ipynb`` - Jupyter notebook.
-* ``ita.html`` - its version in html format so that it can be browsed with any web browser.
+* ``ita.html`` - its version in html format so that it can be browsed with any web browser ([CLICK HERE TO BROWSE](https://htmlpreview.github.io/?https://gitfront.io/r/dral/cTeTc2aMnE8U/ita/raw/ita.html)).
 * ``calculations`` folder containing the parsed calculation data in MLatom format (also saving space). The full data can be accessed on [figshare](https://figshare.com/s/1c9cb093407f48230c2f).
 
 ## Prerequisites
