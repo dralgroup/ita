@@ -2,7 +2,7 @@
 
 This repository contains computational material in the interactive Jupyter notebooks and data files supported by the [MLatom](https://github.com/dralgroup/mlatom) program used for generating and analyzing the calculations in the study:
  
-Jian-Cheng Song, Xin-Yu Tong, Bai-Yang Qian, Jianbin Lin, Pavlo O. Dral, Hui-Jun Zhang. Alternating Donor-Acceptor Thienoacenes Featuring Up to 23 Linearly Fused Rings. *To be submitted*.
+Jian-Cheng Song, Xin-Yu Tong, Jing-Jing Guo, Bai-Yang Qian, Jianbin Lin, Pavlo O. Dral, Hui-Jun Zhang. Alternating Donor-Acceptor Thienoacenes Featuring Up to 23 Linearly Fused Rings. *Submitted*.
 
 ## Content description
 
